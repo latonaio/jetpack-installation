@@ -1,6 +1,5 @@
-## jetpack-installation  
-### 前提条件  
-NVIDIA Jetson Developer Kit 向けの初期設定方法です。  
+## jetpack-installation   
+jetpack-installation は、NVIDIA Jetson Developer Kit 向けの初期設定方法です。  
 メーカーが異なる本番機端末では、本手順とは、別の手順を用いてセットアップします。  
 
 ### 事前準備  
@@ -18,7 +17,7 @@ JetsonへのJetpackを利用したUbuntu 等のインストール状況は、ホ
  
 ### インストール手順  
 #### 1.ホストサーバーでのNVIDIA SDK Managerのダウンロード・セットアップ・起動　　  
-  以下URLは、上述のJetson Download CenterページのNVIDIA SDK Managerのリンクになります。ubuntu上でterminalを立ち上げ、以下のコマンドを実行してSDK Managerをダウンロードします。    
+  以下URLは、Jetson Download CenterページのNVIDIA SDK Managerのリンクになります。Ubuntu上でterminalを立ち上げ、以下のコマンドを実行してSDK Managerをダウンロードします。    
  
 ```  
 wget https://developer.nvidia.com/embedded/dlc/nv-sdk-manager  
